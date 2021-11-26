@@ -1,0 +1,22 @@
+Todo:
+
+  tester le générateur de données (test unitaire) => on crée séparément des images de tests
+
+Questions:
+
+  validation sur crops ok ?
+
+  quels hyperparamètres sont les plus pertinents à optimiser ?
+
+
+  
+
+
+
+Doc:
+
+  https://github.com/mcordts/cityscapesScripts
+
+  Augmentation des jeux de test/validation: https://imgaug.readthedocs.io/en/latest/ https://github.com/aleju/imgaug
+
+  https://github.com/qubvel/segmentation_models
