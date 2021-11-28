@@ -1,6 +1,17 @@
 Todo:
 
-  tester le générateur de données (test unitaire) => on crée séparément des images de tests
+  3 techniques d'augmentation
+
+  Multi model + HP opti
+
+  API Flask
+
+  Azure multicore
+
+  Doc
+
+  Pres
+
 
 Questions:
 
@@ -8,7 +19,21 @@ Questions:
 
   quels hyperparamètres sont les plus pertinents à optimiser ?
 
+  quel model de référence prendre ?
 
+  nb de modèles attendus ?
+
+  up crop size ?
+
+  A quel point pomper le code ?
+
+  Paramètres standards pour une augmentation ?
+  
+  Augment val ?
+
+  Quels temps d'entrainement attendre ?
+
+  La loss baisse pas
   
 
 
@@ -17,6 +42,10 @@ Doc:
 
   https://github.com/mcordts/cityscapesScripts
 
-  Augmentation des jeux de test/validation: https://imgaug.readthedocs.io/en/latest/ https://github.com/aleju/imgaug
+  Augmentation des jeux de test/validation: https://imgaug.readthedocs.io/en/latest/source/examples_basics.html
 
   https://github.com/qubvel/segmentation_models
+
+  https://github.com/srihari-humbarwadi/cityscapes-segmentation-with-Unet
+
+  https://github.com/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow2.0
