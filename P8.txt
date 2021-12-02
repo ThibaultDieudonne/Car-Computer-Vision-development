@@ -1,6 +1,8 @@
 Todo:
 
-  3 techniques d'augmentation
+  optimize color mapping
+
+  3 techniques d'augmentation: Paramètres standards pour une augmentation (combien, mes traitements ok ?) ? => augmentations réalistes, ~4-32
 
   Multi model + HP opti
 
@@ -15,26 +17,6 @@ Todo:
 
 Questions:
 
-  validation sur crops ok ?
-
-  quels hyperparamètres sont les plus pertinents à optimiser ?
-
-  quel model de référence prendre ?
-
-  nb de modèles attendus ?
-
-  up crop size ?
-
-  A quel point pomper le code ?
-
-  Paramètres standards pour une augmentation ?
-  
-  Augment val ?
-
-  Quels temps d'entrainement attendre ?
-
-  La loss baisse pas
-  
 
 
 
