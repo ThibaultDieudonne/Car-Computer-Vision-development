@@ -1,6 +1,12 @@
+Test:
+
+  One hot output dataset ?
+
 Todo:
 
   optimize color mapping
+
+  callbacks
 
   3 techniques d'augmentation: Paramètres standards pour une augmentation (combien, mes traitements ok ?) ? => augmentations réalistes, ~4-32
 
@@ -17,7 +23,9 @@ Todo:
 
 Questions:
 
+  Pourquoi je dois one hot encode manuellement ?
 
+  Vers quels modèles se tourner ?
 
 
 Doc:
@@ -26,7 +34,7 @@ Doc:
 
   Augmentation des jeux de test/validation: https://imgaug.readthedocs.io/en/latest/source/examples_basics.html
 
-  https://github.com/qubvel/segmentation_models
+  https://github.com/qubvel/segmentation_models (https://github.com/qubvel/segmentation_models/blob/master/examples/multiclass%20segmentation%20(camvid).ipynb)
 
   https://github.com/srihari-humbarwadi/cityscapes-segmentation-with-Unet
 
