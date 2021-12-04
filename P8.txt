@@ -23,6 +23,9 @@ Questions:
 
   Dropout ?
 
+  Up crop size ?
+
+  Quand faire l'augmentation ?
 
 Doc:
 
