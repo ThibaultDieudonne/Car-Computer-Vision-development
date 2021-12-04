@@ -1,14 +1,8 @@
-Test:
-
-  One hot output dataset ?
-
 Todo:
 
   optimize color mapping
 
   callbacks
-
-  3 techniques d'augmentation: Paramètres standards pour une augmentation (combien, mes traitements ok ?) ? => augmentations réalistes, ~4-32
 
   Multi model + HP opti
 
@@ -26,6 +20,8 @@ Questions:
   Pourquoi je dois one hot encode manuellement ?
 
   Vers quels modèles se tourner ?
+
+  Dropout ?
 
 
 Doc:
