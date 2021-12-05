@@ -1,7 +1,5 @@
 Todo:
 
-  optimize color mapping
-
   callbacks
 
   Multi model + HP opti
@@ -25,7 +23,7 @@ Questions:
 
   Up crop size ?
 
-  Quand faire l'augmentation ?
+  Quand faire l'augmentation ? (aug crops ok ?)
 
 Doc:
 
