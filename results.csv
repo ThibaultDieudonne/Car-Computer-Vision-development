@@ -1,2 +1,2 @@
 model_name,iou_score,time,loss
-unet_resnet34_aug,0.1339,116.3155046,1.3356
+unet_resnet34_aug,0.5204,31134.0511107,0.6619
