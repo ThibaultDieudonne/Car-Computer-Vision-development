@@ -1,7 +1,5 @@
 Todo:
 
-  callbacks
-
   Multi model + HP opti
 
   API Flask
@@ -15,17 +13,17 @@ Todo:
 
 Questions:
 
-  Pourquoi je dois one hot encode manuellement ?
+  Pourquoi je dois one hot encode manuellement ? => à cause de la loss
 
-  Vers quels modèles se tourner ?
+  Vers quels modèles se tourner ? => attention based
 
-  Dropout ?
-
-  Up crop size ?
-
-  Quand faire l'augmentation ? (aug crops ok ?)
+  Dropout ? => oui mais pixel dropout
 
 Doc:
+
+  https://keras.io/examples/vision/image_classification_from_scratch/
+
+  https://keras.io/examples/keras_recipes/subclassing_conv_layers/
 
   https://github.com/mcordts/cityscapesScripts
 
@@ -36,3 +34,7 @@ Doc:
   https://github.com/srihari-humbarwadi/cityscapes-segmentation-with-Unet
 
   https://github.com/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow2.0
+
+  https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models#models-and-backbones
+
+  https://towardsdatascience.com/cityscape-segmentation-with-tensorflow-2-0-b320b6605cbf
