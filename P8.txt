@@ -1,40 +1,16 @@
 Todo:
 
-  Multi model + HP opti
+  https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
 
-  API Flask
+  HP opti / Retrain / Comment notebook
 
-  Azure multicore
+  Simple model ?
 
   Doc
 
   Pres
 
 
-Questions:
-
-  Pourquoi je dois one hot encode manuellement ? => à cause de la loss
-
-  Vers quels modèles se tourner ? => attention based
-
-  Dropout ? => oui mais pixel dropout
-
 Doc:
 
-  https://keras.io/examples/vision/image_classification_from_scratch/
-
-  https://keras.io/examples/keras_recipes/subclassing_conv_layers/
-
-  https://github.com/mcordts/cityscapesScripts
-
-  Augmentation des jeux de test/validation: https://imgaug.readthedocs.io/en/latest/source/examples_basics.html
-
-  https://github.com/qubvel/segmentation_models (https://github.com/qubvel/segmentation_models/blob/master/examples/multiclass%20segmentation%20(camvid).ipynb)
-
-  https://github.com/srihari-humbarwadi/cityscapes-segmentation-with-Unet
-
-  https://github.com/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow2.0
-
   https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models#models-and-backbones
-
-  https://towardsdatascience.com/cityscape-segmentation-with-tensorflow-2-0-b320b6605cbf

@@ -1,2 +1,5 @@
 model_name,iou_score,time,loss
 unet_resnet34_aug,0.5828,47518.6185669,0.5848
+DeepLabV3plus,0.7672,28918.174172,0.0063
+DeepLabV3plus_test,0.5661,163.04625729999998,0.0927
+FCNEFFNETB0,0.2453,899.6046378,0.018
