@@ -2,15 +2,8 @@ Todo:
 
   https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
 
-  HP opti / Retrain / Comment notebook
-
-  Simple model ?
+  HP opti / Retrain
 
   Doc
 
   Pres
-
-
-Doc:
-
-  https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation-Models#models-and-backbones
