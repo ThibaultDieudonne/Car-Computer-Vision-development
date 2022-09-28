@@ -1,1 +1,1 @@
-# OC-Projet8
+# Projet 8 (Formation Data Scientist - Ingénieur IA) - Development
